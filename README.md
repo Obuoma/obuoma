@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I'm Joy Ukpaka!
 
-<!--
-**Obuoma/obuoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Sales Development Representative | Workflow Automation Enthusiast  
+🔹 Bridging Sales, Tech, and Automation to Drive Growth  
+🔹 Passionate about building systems that scale smarter
 
-Here are some ideas to get you started:
+I'm a tech-savvy business professional with hands-on experience in sales development, workflow automation, and API integrations. I thrive at the intersection of strategy and execution, helping businesses grow faster and smarter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Currently exploring:
+- Intelligent lead generation using **n8n**, **PostgreSQL**, **Zapier**, and **Make**
+- Custom CRM workflows to boost team productivity
+- Low-code/no-code tools to streamline operations
+
+🚀 Career Highlights:
+- Built automated lead enrichment and CRM integration systems
+- Experience collaborating across sales, marketing, and product teams
+- Strong communicator with a data-driven mindset
+
+🛠️ Tools & Tech I Use:
+`n8n` • `Make (Integromat)` • `PostgreSQL` • `Zoho CRM` • `Slack APIs` • `Airtable` • `Typeform` • `JavaScript` • `GitHub`
+
+📫 Let’s connect:  
+[LinkedIn](https://www.linkedin.com/in/joy-ukpaka-367142146/)  
+[Email](ukpakaj9@gmail.com)
+
